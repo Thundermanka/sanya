@@ -1,0 +1,4 @@
+﻿  Uravn.cpp
+C:\Users\Админ\source\repos\labasani\labasani\Uravn.cpp(13,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Админ\source\repos\labasani\labasani\Uravn.cpp(14,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  labasani.vcxproj -> C:\Users\Админ\source\repos\labasani\x64\Debug\labasani.exe
