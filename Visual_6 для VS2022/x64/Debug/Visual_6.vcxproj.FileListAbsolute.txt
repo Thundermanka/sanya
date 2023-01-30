@@ -1,0 +1,15 @@
+C:\Users\akute\Desktop\Visual_6\x64\Debug\Visual_6.vcxproj.AssemblyReference.cache
+C:\Users\akute\Desktop\Visual_6\x64\Debug\Visual_6.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\akute\Desktop\Visual_6\x64\Debug\Visual_6.exe
+C:\Users\akute\Desktop\Visual_6\x64\Debug\Visual6.MyForm.resources
+C:\Users\akute\Desktop\Visual_6\x64\Debug\Visual_6.vcxproj.GenerateResource.cache
+C:\Users\Админ\Desktop\Visual_6 для VS2022\x64\Debug\Visual_6.vcxproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\Visual_6 для VS2022\x64\Debug\Visual_6.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\Desktop\Visual_6 для VS2022\x64\Debug\Visual6.MyForm.resources
+C:\Users\Админ\Desktop\Visual_6 для VS2022\x64\Debug\Visual_6.vcxproj.GenerateResource.cache
+C:\Users\Админ\Desktop\Visual_6 для VS2022\x64\Debug\Visual_6.exe
+C:\Users\Админ\Desktop\то что лень закреплять на начальный экран\Visual_6 для VS2022\x64\Debug\Visual_6.vcxproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\то что лень закреплять на начальный экран\Visual_6 для VS2022\x64\Debug\Visual_6.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\Desktop\то что лень закреплять на начальный экран\Visual_6 для VS2022\x64\Debug\Visual6.MyForm.resources
+C:\Users\Админ\Desktop\то что лень закреплять на начальный экран\Visual_6 для VS2022\x64\Debug\Visual_6.vcxproj.GenerateResource.cache
+C:\Users\Админ\Desktop\то что лень закреплять на начальный экран\Visual_6 для VS2022\x64\Debug\Visual_6.exe
